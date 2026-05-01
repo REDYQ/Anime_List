@@ -4,13 +4,15 @@
 		"year": "октябрь 2011г.",
 		"name": "Дневник будущего",
 		"episode": "26",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "asread",
 		"year": "июнь 2013г.",
 		"name": "Дневник будущего: Повторный набор",
 		"episode": "1",
-		"type": "OVA"
+		"type": "OVA",
+		"amusic_check": "0"
 	}
 ]
