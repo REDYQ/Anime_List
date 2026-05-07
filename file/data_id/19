@@ -4,48 +4,87 @@
 		"year": "апрель 2015г.",
 		"name": "Может, я встречу тебя в подземелье?",
 		"episode": "13",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "декабрь 2016г.",
 		"name": "Может, я встречу тебя в подземелье? OVA",
 		"episode": "1",
-		"type": "OVA"
+		"type": "OVA",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "J.C. Staff",
+		"year": "апрель 2017г.",
+		"name": "Может, я встречу тебя в подземелье? Меч Оратории",
+		"episode": "12",
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "J.C. Staff",
+		"year": "февраль 2019г.",
+		"name": "Может, я встречу тебя в подземелье? Стрела Ориона",
+		"episode": "1",
+		"type": "Фильм",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "июль 2019г.",
 		"name": "Может, я встречу тебя в подземелье? 2",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "J.C. Staff",
+		"year": "январь 2020г.",
+		"name": "Может, я встречу тебя в подземелье? 2 OVA",
+		"episode": "1",
+		"type": "OVA",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "октябрь 2020г.",
 		"name": "Может, я встречу тебя в подземелье? 3",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "J.C. Staff",
+		"year": "апрель 2021г.",
+		"name": "Может, я встречу тебя в горячих источниках Орарио? Бог горячих источников навсегда",
+		"episode": "1",
+		"type": "OVA",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "июль 2022г.",
 		"name": "Может, я встречу тебя в подземелье? 4",
 		"episode": "11",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "январь 2023г.",
 		"name": "Может, я встречу тебя в подземелье? 4. Часть 2",
 		"episode": "11",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "J.C. Staff",
 		"year": "октябрь 2024г.",
 		"name": "Может, я встречу тебя в подземелье? 5",
 		"episode": "15",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

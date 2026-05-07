@@ -9,6 +9,14 @@
 	},
 	{
 		"studio_name": "asread",
+		"year": "январь 2012г.",
+		"name": "Дневник будущего: Спецвыпуски",
+		"episode": "10",
+		"type": "Спешл",
+		"amusic_check": "1"
+	},
+	{
+		"studio_name": "asread",
 		"year": "июнь 2013г.",
 		"name": "Дневник будущего: Повторный набор",
 		"episode": "1",

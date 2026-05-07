@@ -6,5 +6,13 @@
 		"episode": "12",
 		"type": "ТВ Сериал",
 		"amusic_check": "1"
+	},
+	{
+		"studio_name": "Project No.9",
+		"year": "апрель 2026г.",
+		"name": "Ангел по соседству 2",
+		"episode": "",
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

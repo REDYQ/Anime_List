@@ -30,5 +30,13 @@
 		"episode": "2",
 		"type": "Спешл",
 		"amusic_check": "1"
+	},
+	{
+		"studio_name": "Bibury Animation Studios",
+		"year": "декабрь 2024г.",
+		"name": "Пять невест: Медовый месяц",
+		"episode": "2",
+		"type": "Спешл",
+		"amusic_check": "0"
 	}
 ]
