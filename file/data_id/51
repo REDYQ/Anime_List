@@ -4,13 +4,15 @@
 		"year": "апрель 2023г.",
 		"name": "Магия и мускулы",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "A-1 Pictures Inc.",
 		"year": "январь 2024г.",
 		"name": "Магия и мускулы 2",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

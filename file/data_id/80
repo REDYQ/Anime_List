@@ -4,13 +4,31 @@
 		"year": "апрель 2023г.",
 		"name": "Опасность в моём сердце",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "Shin-Ei Animation",
+		"year": "декабрь 2023г.",
+		"name": "Опасность в моём сердце: Дополнительное время",
+		"episode": "1",
+		"type": "ONA",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "Shin-Ei Animation",
 		"year": "январь 2024г.",
 		"name": "Опасность в моём сердце 2",
 		"episode": "13",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "Shin-Ei Animation",
+		"year": "февраль 2026г.",
+		"name": "Опасность в моём сердце — Фильм",
+		"episode": "1",
+		"type": "Фильм",
+		"amusic_check": "0"
 	}
 ]

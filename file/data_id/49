@@ -4,13 +4,15 @@
 		"year": "апрель 2022г.",
 		"name": "Непостижимая Ахарэн",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "Felix Film",
 		"year": "апрель 2025г.",
 		"name": "Непостижимая Ахарэн 2",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

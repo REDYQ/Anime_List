@@ -1,9 +1,18 @@
 [
 	{
+		"studio_name": "Madhouse",
+		"year": "июнь 2007г.",
+		"name": "Дьявол может плакать (2007)",
+		"episode": "12",
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
 		"studio_name": "Studio Mir, Adi Shankar Animation, Capcom",
 		"year": "апрель 2025г.",
 		"name": "Дьявол может плакать",
 		"episode": "8",
-		"type": "ONA"
+		"type": "ONA",
+		"amusic_check": "0"
 	}
 ]

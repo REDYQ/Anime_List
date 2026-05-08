@@ -1,9 +1,26 @@
 [
 	{
+		"studio_name": "Yostar Pictures",
+		"year": "июль 2022г.",
+		"name": "Синий архив: Юбилейный спецвыпуск",
+		"episode": "1",
+		"type": "Спешл",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "Yostar Pictures",
+		"year": "ноябрь 2022г.",
+		"name": "Синий архив: Прекрасная мечтательница",
+		"episode": "1",
+		"type": "ONA",
+		"amusic_check": "0"
+	},
+	{
 		"studio_name": "Yostar Pictures, CANDY BOX",
 		"year": "апрель 2024г.",
 		"name": "Синий архив",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

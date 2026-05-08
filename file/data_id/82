@@ -1,9 +1,18 @@
 [
 	{
 		"studio_name": "SILVER LINK, Connect",
-		"year": "январь 2024г.",
+		"year": "апрель 2017г.",
 		"name": "Тирания вооруженных девушек",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "SILVER LINK",
+		"year": "ноябрь 2017г.",
+		"name": "Тирания вооруженных девушек — OVA",
+		"episode": "1",
+		"type": "OVA",
+		"amusic_check": "0"
 	}
 ]

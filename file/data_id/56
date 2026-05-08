@@ -4,6 +4,15 @@
 		"year": "апрель 2025г.",
 		"name": "Карманы лета",
 		"episode": "26",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "feel.",
+		"year": "август 2025г.",
+		"name": "Карманы лета — Фильм",
+		"episode": "4",
+		"type": "Фильм",
+		"amusic_check": "0"
 	}
 ]

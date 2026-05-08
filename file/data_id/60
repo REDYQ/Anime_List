@@ -1,9 +1,26 @@
 [
 	{
+		"studio_name": "Ajia-Do",
+		"year": "декабрь 2000г.",
+		"name": "Адзуманга Дайо ONA",
+		"episode": "1",
+		"type": "ONA",
+		"amusic_check": "0"
+	},
+	{
 		"studio_name": "J.C.Staff",
-		"year": "февраль 1999г.",
+		"year": "декабрь 2001г.",
+		"name": "Адзуманга: Очень короткий фильм",
+		"episode": "1",
+		"type": "Спешл",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "J.C.Staff",
+		"year": "апрель 2002г.",
 		"name": "Адзуманга Дайо",
 		"episode": "26",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

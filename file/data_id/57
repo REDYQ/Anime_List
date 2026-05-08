@@ -4,13 +4,15 @@
 		"year": "июль 2018г.",
 		"name": "Необъятный океан",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "Zero-G",
 		"year": "июль 2025г.",
 		"name": "Необъятный океан 2",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

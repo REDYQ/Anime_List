@@ -4,20 +4,23 @@
 		"year": "сентябрь 2012г.",
 		"name": "Хори и Миямура",
 		"episode": "6",
-		"type": "OVA"
+		"type": "OVA",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "CloverWorks",
 		"year": "январь 2021г.",
 		"name": "Хоримия",
 		"episode": "13",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "CloverWorks",
 		"year": "июль 2023г.",
 		"name": "Хоримия: Кусочек",
 		"episode": "13",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

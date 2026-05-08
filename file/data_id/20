@@ -4,13 +4,15 @@
 		"year": "июль 2021г.",
 		"name": "Мифический дух: Хроники",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "TMS Entertainment",
 		"year": "октябрь 2024г.",
 		"name": "Мифический дух: Хроники 2",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]

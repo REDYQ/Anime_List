@@ -4,13 +4,23 @@
 		"year": "апрель 2024г.",
 		"name": "Кайдзю №8",
 		"episode": "12",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
+	},
+	{
+		"studio_name": "Production I.G",
+		"year": "март 2025г.",
+		"name": "Кайдзю №8: Выходной Хосины",
+		"episode": "1",
+		"type": "Спешл",
+		"amusic_check": "0"
 	},
 	{
 		"studio_name": "Production I.G",
 		"year": "июль 2025г.",
 		"name": "Кайдзю №8 2",
 		"episode": "11",
-		"type": "ТВ Сериал"
+		"type": "ТВ Сериал",
+		"amusic_check": "0"
 	}
 ]
