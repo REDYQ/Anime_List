@@ -5,7 +5,7 @@
 		"name": "Дандадан",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Science SARU",
@@ -13,6 +13,6 @@
 		"name": "Дандадан 2",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	}
 ]
