@@ -5,7 +5,7 @@
 		"name": "Моб Психо 100",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Bones",
@@ -13,7 +13,7 @@
 		"name": "Моб Психо 100 2",
 		"episode": "13",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Bones",
@@ -29,6 +29,6 @@
 		"name": "Моб Психо 100 3",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	}
 ]
