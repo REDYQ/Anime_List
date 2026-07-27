@@ -1,0 +1,58 @@
+[
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2019г.",
+		"name": "Доктор Стоун",
+		"episode": "24",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "январь 2021г.",
+		"name": "Доктор Стоун: Каменные войны",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2022г.",
+		"name": "Доктор Стоун: Рюсуй",
+		"episode": "1",
+		"type": "Спешл"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "апрель 2023г.",
+		"name": "Доктор Стоун: Новый мир",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "октябрь 2023г.",
+		"name": "Доктор Стоун: Новый мир | Часть 2",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "январь 2025г.",
+		"name": "Доктор Стоун: Научное будущее",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2025г.",
+		"name": "Доктор Стоун: Научное будущее. Часть 2",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "апрель 2026г.",
+		"name": "Доктор Стоун: Научное будущее. Часть 3",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
