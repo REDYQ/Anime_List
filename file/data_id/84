@@ -1,0 +1,26 @@
+[
+	{
+		"studio_name": "Production I.G",
+		"year": "октябрь 2009г.",
+		"name": "Достучаться до тебя",
+		"episode": "25",
+		"type": "ТВ Сериал",
+		"amusic_check": "1"
+	},
+	{
+		"studio_name": "Production I.G",
+		"year": "январь 2011г.",
+		"name": "Достучаться до тебя 2",
+		"episode": "12",
+		"type": "ТВ Сериал",
+		"amusic_check": "1"
+	},
+	{
+		"studio_name": "Production I.G",
+		"year": "август 2024г.",
+		"name": "Достучаться до тебя 3",
+		"episode": "5",
+		"type": "ONA",
+		"amusic_check": "0"
+	}
+]

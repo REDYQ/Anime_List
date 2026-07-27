@@ -1,0 +1,72 @@
+[
+	{
+		"studio_name": "AIC PLUS+",
+		"year": "апрель 2013г.",
+		"name": "Рандеву с жизнью",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "AIC PLUS+",
+		"year": "декабрь 2013г.",
+		"name": "Рандеву с жизнью: Время до свидания",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "Production IMS",
+		"year": "апрель 2014г.",
+		"name": "Рандеву с жизнью 2",
+		"episode": "10",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Production IMS",
+		"year": "декабрь 2014г.",
+		"name": "Рандеву с жизнью 2: Куруми на фестивале звёзд",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "Production IMS",
+		"year": "август 2015г.",
+		"name": "Рандеву с Жизнью — Фильм: Суд Маюри",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"studio_name": "J.C.Staff",
+		"year": "январь 2019г.",
+		"name": "Рандеву с Жизнью 3",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "GEEK TOYS",
+		"year": "август 2020г.",
+		"name": "Рандеву с пулей: Смерть или пуля",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"studio_name": "GEEK TOYS",
+		"year": "ноябрь 2020г.",
+		"name": "Рандеву с пулей: Кошмар или королева",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"studio_name": "GEEK TOYS",
+		"year": "апрель 2022г.",
+		"name": "Рандеву с жизнью 4",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "GEEK TOYS",
+		"year": "апрель 2024г.",
+		"name": "Рандеву с жизнью 5",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
