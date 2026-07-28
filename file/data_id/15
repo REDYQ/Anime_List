@@ -5,7 +5,7 @@
 		"name": "Слушайтесь папу!",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "feel.",
@@ -13,7 +13,7 @@
 		"name": "Слушайтесь папу! Поккапока",
 		"episode": "1",
 		"type": "Спешл",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "feel.",
@@ -21,6 +21,6 @@
 		"name": "Слушайтесь папу! OVA",
 		"episode": "2",
 		"type": "OVA",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	}
 ]
