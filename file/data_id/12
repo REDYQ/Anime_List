@@ -5,7 +5,7 @@
 		"name": "Унеси меня на Луну",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Seven Arcs",
@@ -13,7 +13,7 @@
 		"name": "Унеси меня на Луну OVA",
 		"episode": "1",
 		"type": "OVA",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Seven Arcs",
@@ -21,7 +21,7 @@
 		"name": "Унеси меня на Луну: Униформа",
 		"episode": "1",
 		"type": "Спешл",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Seven Arcs",
@@ -29,7 +29,7 @@
 		"name": "Унеси меня на Луну 2",
 		"episode": "12",
 		"type": "ТВ Сериал",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	},
 	{
 		"studio_name": "Seven Arcs",
@@ -37,6 +37,6 @@
 		"name": "Унеси меня на Луну: Дни старшей школы",
 		"episode": "4",
 		"type": "ONA",
-		"amusic_check": "0"
+		"amusic_check": "1"
 	}
 ]
